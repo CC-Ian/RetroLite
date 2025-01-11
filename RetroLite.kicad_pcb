@@ -1114,7 +1114,7 @@
 		(path "/41a4ebf8-39fe-47ac-8291-6d55e2d4a27d")
 		(sheetname "Root")
 		(sheetfile "RetroLite.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -0.8128 -0.8128)
 			(end -0.8128 0.8128)
@@ -1988,7 +1988,7 @@
 		(path "/b8909c3d-5177-4ec8-a202-291741443d5e")
 		(sheetname "Root")
 		(sheetfile "RetroLite.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -0.8128 -0.8128)
 			(end -0.8128 0.8128)
@@ -3846,7 +3846,7 @@
 		(path "/a5558270-904a-490d-b688-97529d2c02bf")
 		(sheetname "Root")
 		(sheetfile "RetroLite.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -0.8128 -0.8128)
 			(end -0.8128 0.8128)

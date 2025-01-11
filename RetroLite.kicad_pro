@@ -447,7 +447,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "filamentDigits.kicad_pro",
+    "filename": "RetroLite.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -485,7 +485,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "filamentDigits.step",
+      "step": "RetroLite.step",
       "svg": "",
       "vrml": ""
     },

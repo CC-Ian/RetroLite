@@ -31,3 +31,6 @@ fp-info-cache
 # Production stuff
 private/
 jlcpcb/
+
+# FreeCAD backup files
+*.FCBak

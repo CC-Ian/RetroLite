@@ -1165,6 +1165,28 @@
 			(pintype "passive")
 			(uuid "83852f0e-5c94-43f7-945f-a49b8aca2b98")
 		)
+		(model "${KIPRJMOD}/3D Models/LED Filament.step"
+			(offset
+				(xyz 2.85 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3D Models/LED Filament.step"
+			(offset
+				(xyz 0 2.85 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
@@ -2016,6 +2038,28 @@
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "e918dec1-5cf4-4a22-a246-269eb355bffc")
+		)
+		(model "${KIPRJMOD}/3D Models/LED Filament.step"
+			(offset
+				(xyz 0 -2.85 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "${KIPRJMOD}/3D Models/LED Filament.step"
+			(offset
+				(xyz 2.85 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "LOGO"
@@ -3852,6 +3896,39 @@
 			(pinfunction "1")
 			(pintype "passive")
 			(uuid "2fbb8431-5172-4b66-aceb-239164f673a6")
+		)
+		(model "${KIPRJMOD}/3D Models/LED Filament.step"
+			(offset
+				(xyz 0 -2.85 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
+		(model "${KIPRJMOD}/3D Models/LED Filament.step"
+			(offset
+				(xyz 0 2.85 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/3D Models/LED Filament.step"
+			(offset
+				(xyz -2.85 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -180)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"

@@ -19,10 +19,10 @@ RetroLite fixes the flicker issue by moving from a charlieplexed design to a dir
 It is recommended to connect RetroLite to a free SPI bus, however that is not exclusively necessary. Using your SPI bus will likely provide the highest rate of data throughput (up to a maximum of 100MHz depending on configuration. See [here](https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf)), but it is not strictly necessary, as the driver is a simple 8 bit serial to parallel shift register. It may provide an interesting effect to shift more slowly, fading the display into the next string you wish to display.
 
 ### Pinout
+![Pinout](./Images/Pinout.png)
 
-
-
-
+### Pin Numbering
+![Pin Numbering](./Images/Pin_numbering.png)
 
 ## Limitations
 RetroLite maintains the same limitations as general seven segment displays, being unable to unambiguously display certain letters due to their shapes. See this [article](https://en.wikipedia.org/wiki/Seven-segment_display_character_representations) covering characters and their seven segment display representations.
